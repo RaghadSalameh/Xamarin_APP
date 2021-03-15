@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Xamarin_App"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             x:Class="Xamarin_App.MainPage">
+
+    <!--<StackLayout>
+        <maps:Map x:Name="Mymap" />
+        <ActivityIndicator x:Name="activityIndicator"  IsRunning="False" IsVisible="False"  Color="Orange"/>
+    </StackLayout>-->
+</ContentPage>

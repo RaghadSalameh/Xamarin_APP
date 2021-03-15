@@ -1,0 +1,45 @@
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\bin\Debug\netstandard2.0\Xamarin_App.deps.json
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\bin\Debug\netstandard2.0\Xamarin_App.dll
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\bin\Debug\netstandard2.0\Xamarin_App.pdb
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.csprojAssemblyReference.cache
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\FieldPage.xaml.g.cs
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\NavigationDrawer.xaml.g.cs
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\PopUpNamingFieldPage.xaml.g.cs
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.csproj.CoreCompileInputs.cache
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.AssemblyInfoInputs.cache
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.AssemblyInfo.cs
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.dll
+D:\Xamarin Project\Xamarin_AppV1\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.pdb
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\bin\Debug\netstandard2.0\Xamarin_App.deps.json
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\bin\Debug\netstandard2.0\Xamarin_App.dll
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\bin\Debug\netstandard2.0\Xamarin_App.pdb
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\FieldPage.xaml.g.cs
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\NavigationDrawer.xaml.g.cs
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\PopUpNamingFieldPage.xaml.g.cs
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.dll
+C:\Users\ASUS\Desktop\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.pdb
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\bin\Debug\netstandard2.0\Xamarin_App.deps.json
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\bin\Debug\netstandard2.0\Xamarin_App.dll
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\bin\Debug\netstandard2.0\Xamarin_App.pdb
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.csprojAssemblyReference.cache
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\FieldPage.xaml.g.cs
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\NavigationDrawer.xaml.g.cs
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\PopUpNamingFieldPage.xaml.g.cs
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.AssemblyInfoInputs.cache
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.AssemblyInfo.cs
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.csproj.CoreCompileInputs.cache
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\XamlC.stamp
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.dll
+H:\L-one\Xamarin_App\Xamarin_App\Xamarin_App\obj\Debug\netstandard2.0\Xamarin_App.pdb
