@@ -1,2 +1,2 @@
 # Boundary App
-[demo](demo.gif)
+![demo](demo.gif)
